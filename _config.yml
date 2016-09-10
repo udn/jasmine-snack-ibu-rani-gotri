@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "id-ID"
-title                    : "Jasmine Snack (Ibu Rani-Gotri Darmadji)"
+locale                   : "en-US"
+title                    : "Jasmine Snack \n (Ibu Rani-Gotri Darmadji)"
 title_separator          : "-"
 name                     : &name "Jasmine Snack"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+description              : &description "Menerima pesanan."
 url                      : https://udn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/jasmine-snack-ibu-rani-gotri" # the subpath of your site, e.g. "/blog"
 repository               : "udn/jasmine-snack-ibu-rani-gotri"
