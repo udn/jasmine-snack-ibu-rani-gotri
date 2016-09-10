@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "id-ID"
-title                    : "Jasmine Snack (Ibu Rani-Gotri Darmadji)"
+locale                   : "en-US"
+title                    : "Jasmine Cafetaria (Ibu Rani-Gotri Darmadji)"
 title_separator          : "-"
-name                     : &name "Jasmine Snack"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://udn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jasmine Cafetaria | (Ibu Rani-Gotri Darmadji)"
+description              : &description "Jasmine Cafetaria, menerima pesanan snack dan makan nasi box untuk partai kecil dan besar dengan aneka menu sesuai dengan kebutuhan anda."
+url                      : https://udn.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/jasmine-snack-ibu-rani-gotri" # the subpath of your site, e.g. "/blog"
-repository               : "udn/jasmine-snack-ibu-rani-gotri"
+# repository               : "udn/jasmine-snack-ibu-rani-gotri"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y"
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -72,37 +72,37 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-2011187-3"
+    tracking_id          : #"UA-2011187-3"
 
 
 # Site Author
 author:
-  name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
+  name             : "Jasmine Cafetaria"
+  avatar           : "jasmine.png"
+  bio              : "Ibu Rani-Gotri Darmadji <br/> <i class='fa fa-whatsapp'></i>  +62-813-2884-6089.<br/><i class='fa fa-phone'></i>  +62-813-2884-6089."
+  location         : "Yogyakarta"
   email            :
-  uri              : "https://mademistakes.com"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         :
   foursquare       :
-  github           : "mmistakes"
+  github           :
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        :
   lastfm           :
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          :
   vine             :
   weibo            :
   xing             :

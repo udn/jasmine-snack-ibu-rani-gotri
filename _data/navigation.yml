@@ -21,20 +21,20 @@ foo:
 
 # main links links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+  - title: "Lihat Menu"
+    url: /menu/
 
-  - title: "About"
-    url: /about/
+  # - title: "About"
+    # url: /about/
 
-  - title: "Sample Posts"
-    url: /year-archive/
+  # - title: "Sample Posts"
+    # url: /year-archive/
 
-  - title: "Sample Collections"
-    url: /collection-archive/
+  # - title: "Sample Collections"
+    # url: /collection-archive/
 
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
+  # - title: "Terms &amp; Privacy Policy"
+    # url: /terms/
 
 
 # documentation links
